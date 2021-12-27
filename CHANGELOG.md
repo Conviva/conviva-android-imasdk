@@ -1,3 +1,13 @@
+## 4.0.3 (27/Dec/2021)
+
+Note: This version is not compatible with 4.0.17.197 and below version of Conviva Android Core SDK.
+
+   * Supports Android 12.
+   * Supports Android IMA SDK 3.25.x version.
+   * Removes legacy API’s.
+   * Creating Ad session on STARTED event rather than LOADED event.
+   * Requires Conviva Android Core SDK version: 4.0.18 and above.
+
 ## 4.0.2.124 (30/JUL/2020)
    * Supports Auto detection of Slates.
    * Supports Google IMA SDK version 3.19.4
