@@ -1,3 +1,7 @@
+## 4.0.4 (25/JULY/2022)
+
+   * Enhancement in Playback metrics.
+
 ## 4.0.3 (27/DEC/2021)
 
 Note: This version is not compatible with 4.0.17.197 and below version of Conviva Android Core SDK.
