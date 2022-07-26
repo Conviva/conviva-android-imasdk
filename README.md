@@ -18,4 +18,4 @@
     
 ## Note:  
 
-* Refer (https://pulse.conviva.com/learning-center/content/sensor_developer_center/sensor_integration/android/android_stream_sensor.htm#IntegrateAdManagers)for integration guidelines.
+* Refer (https://pulse.conviva.com/learning-center/content/sensor_developer_center/sensor_integration/android/android_stream_sensor.htm#IntegrateAdManagers) for integration guidelines.
