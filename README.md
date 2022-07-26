@@ -8,7 +8,7 @@
 ## Gradle dependency
     Add the following line to app's build.gradle file.
     
-    implementation 'com.conviva.sdk:conviva-ima-sdk:4.0.3'
+    implementation 'com.conviva.sdk:conviva-ima-sdk:4.0.4'
     
 ## Offline library
     Place the Conviva library in app's 'lib' folder and add the following line to app's build.gradle file.
@@ -18,4 +18,4 @@
     
 ## Note:  
 
-* Refer https://community.conviva.com/ for integration guidelines.
+* Refer (https://pulse.conviva.com/learning-center/content/sensor_developer_center/sensor_integration/android/android_stream_sensor.htm#IntegrateAdManagers)for integration guidelines.
