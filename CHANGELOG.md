@@ -1,5 +1,14 @@
-## 4.0.4 (25/JULY/2022)
+# Changelog
 
+## 4.0.6 (04/APR/2024)
+  <strong> Note: This version is compatible with 4.0.37 and above versions of Conviva Android Core SDK.</strong>
+  * Resolves the NullPointerException due to synchronisation issues in the Google IMA Module.
+
+## 4.0.5 (07/Oct/2022)
+  * Supports Android 13.
+  * Supports Android IMA SDK 3.28.2 version.
+
+## 4.0.4 (25/JULY/2022)
    * Enhancement in Playback metrics.
 
 ## 4.0.3 (27/DEC/2021)
