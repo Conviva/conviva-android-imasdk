@@ -1,5 +1,13 @@
 # Changelog
 
+## 4.0.9 (21/AUG/2025)
+  * Resolves an issue in reporting buffering states at the start of ad sessions when using SSAI.
+
+## 4.0.8 (04/JUN/2024)
+  <strong> minSDKVersion has been changed from 19 to 21.</strong>
+  * Supports Android 16.
+  * Supports Android IMA SDK 3.36.0 version.
+    
 ## 4.0.7 (07/NOV/2024)
   <strong> minSDKVersion has been changed from 16 to 19.</strong>
   * Supports Android 15.
